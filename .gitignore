@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+# Log files
+run_output.log
+preprocess_run_raw.log
+preprocess_run2_raw.log
+full_run_raw.log
+
+# Python virtual env
+venv/
+.env
+
+# Ignore results and dataset if you don't want to push them (uncomment to enable)
+#results/
+#dataset/
