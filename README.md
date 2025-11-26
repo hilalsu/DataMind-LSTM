@@ -142,15 +142,6 @@ PY
   LSTM ve RandomSearchCV eğitimleri uzun sürebilir.
 
 
-## **7. Önerilen Sonraki Adımlar**
-
- Nadir sınıfları “Diğer” altında birleştirme
- SMOTE veya Class-Weight ile dengeleme
- Stratified K-Fold çapraz doğrulama
- Coğrafi ve zamansal feature engineering
- GUI gösterimi tamamlama (Python arayüzü)
-
-
 ## **Önemli Dosya Yolları**
 
 * İşlenmiş Veri: `results/processed_data.csv`
